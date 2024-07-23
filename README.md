@@ -48,8 +48,8 @@ Included visualizations to illustrate key trends, feature importance, and model 
 ## Ethical Considerations
 
 Ensured that the analysis and predictions were conducted with respect to user privacy and data security. The insights were used responsibly to support business decisions aimed at improving user experience.
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Email:** loviaeb@gmail.com
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/lovia-edassery)
 
 ---
 
