@@ -59,7 +59,7 @@ This work demonstrates the application of **machine learning**, **feature engine
 | Language          | Python            |
 | IDE / Notebook    | Jupyter Notebook  |
 | Libraries         | pandas, numpy, scikit-learn, matplotlib, seaborn |
-| Modeling Techniques | Logistic Regression, Decision Tree, Random Forest |
+| Modeling Techniques | XGBoost Model, Logistic Regression, Decision Tree, Random Forest |
 
 ---
 
